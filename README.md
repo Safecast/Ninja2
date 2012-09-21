@@ -10,3 +10,5 @@ http://www.adafruit.com/products/326
 It was designed specifically for SAFECAST Japan as a complement to the bGeigie.
 
 The board is cut to fit in Takachi box TW / TWN5-4-7.
+
+The microcontroller will use the Arduino Leonardo bootloader and the Freaklabs chibiArduino 802.15.4 stack.

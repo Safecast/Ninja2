@@ -1,6 +1,6 @@
 Partlist
 
-Exported from Ninja2.sch at 21.09.12 16:46
+Exported from Ninja2.sch at 24.09.12 15:57
 
 EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
 
@@ -70,7 +70,7 @@ R18       220K                              R-US_R0603                        R0
 R19       10K                               R-US_R0603                        R0603                             adafruit         1
 RADIO     AT86RF230                         AT86RF230                         32QN1                             Robin            1
 RESET     EVQQ2                             EVQQ2                             EVQ-Q2                            adafruit         1
-SG1       BUZZER13MM                        BUZZER13MM                        PIEZO-MURATA-13MM                 Robin            1
+SG1       BUZZERSMD                         BUZZERSMD                         KOBITONE-254-PB501-ROX            Robin            1
 SJ2       SOLDERJUMPERTRACE                 SOLDERJUMPERTRACE                 SJ_2S-TRACE                       SparkFun         1
 SWITCH    EVQQ2                             EVQQ2                             EVQ-Q2                            adafruit         1
 TP1       PTR1B1,27                         PTR1B1,27                         B1,27                             testpad          1
